@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <button id="test" className="test">YOOOOO</button>
           <p>ALLO</p>
+          <p>ALLO</p>
           <input type="text" id="username" className="username"></input>
           <a
             className="App-link"
